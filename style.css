@@ -1,0 +1,33 @@
+h1, h2{
+  font-family: 'Open Sans', sans-serif;
+  text-align:center;
+}
+
+.img_ {
+  float: right;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.info-heading {
+  text-align:left;
+}
+
+li {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 1.5em;
+  margin:20px;
+}
+
+li li {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 0.75em;
+}
+
+nav button {
+  float:right;
+}
+
+nav button img {
+  width:30px;
+}
